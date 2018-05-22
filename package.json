@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "commander": "^2.15.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-declare": "^0.3.0",
     "gulp-handlebars": "^5.0.2",
+    "gulp-wrap": "^0.14.0",
     "vinyl-fs": "^3.0.3"
   }
 }
