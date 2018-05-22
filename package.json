@@ -1,0 +1,15 @@
+{
+  "name": "static-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-handlebars": "^5.0.2",
+    "vinyl-fs": "^3.0.3"
+  }
+}
